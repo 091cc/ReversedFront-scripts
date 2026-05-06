@@ -1,6 +1,6 @@
 # reversed-front-scripts
 
-> 🇹🇼 [正體中文](#正體中文) ・ 🇺🇸🇬🇧 [English](#english)
+> 🇹🇼 [正體中文](#正體中文) ・ 🇺🇸/🇬🇧 [English](#english)
 
 ---
 
@@ -22,6 +22,8 @@ reversed-front-scripts/
 
 #### `autoBattler.js` — 自動排名戰腳本
 
+- **適用網址：** https://reversedfront.github.io/2.28/assets
+
 自動化執行排名戰的完整流程，包含：
 
 - 開啟時局選單
@@ -33,10 +35,11 @@ reversed-front-scripts/
 
 ### 🚀 使用方式
 
-1. 開啟目標網頁，並進入瀏覽器開發者工具（按 `F12`）
-2. 切換至 **Console** 分頁
-3. 將 `autoBattler.js` 的完整內容貼上並按下 `Enter`
-4. 腳本將自動開始執行
+1. 開啟 https://reversedfront.github.io/2.28/assets
+2. 進入瀏覽器開發者工具（按 `F12`）
+3. 切換至 **Console** 分頁
+4. 將 `autoBattler.js` 的完整內容貼上並按下 `Enter`
+5. 腳本將自動開始執行
 
 > 若需調整執行次數，請修改腳本底部的 `TARGET_CYCLES` 變數。
 
@@ -81,6 +84,8 @@ reversed-front-scripts/
 
 #### `autoBattler.js` — Auto Rank Battle Script
 
+- **Target URL:** https://reversedfront.github.io/2.28/assets
+
 Automates the full ranked battle flow, including:
 
 - Opening the Battle Period menu
@@ -92,10 +97,11 @@ Automates the full ranked battle flow, including:
 
 ### 🚀 Usage
 
-1. Open the target webpage and launch your browser's developer tools (`F12`)
-2. Navigate to the **Console** tab
-3. Paste the full contents of `autoBattler.js` and press `Enter`
-4. The script will begin executing automatically
+1. Navigate to https://reversedfront.github.io/2.28/assets
+2. Launch your browser's developer tools (`F12`)
+3. Navigate to the **Console** tab
+4. Paste the full contents of `autoBattler.js` and press `Enter`
+5. The script will begin executing automatically
 
 > To change the number of cycles, modify the `TARGET_CYCLES` variable at the bottom of the script.
 
