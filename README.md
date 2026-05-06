@@ -1,6 +1,6 @@
 # reversed-front-scripts
 
-> 🇹🇼 [正體中文](#正體中文) ・ 🇺🇸 [English](#english)
+> 🇹🇼 [正體中文](#正體中文) ・ 🇺🇸🇬🇧 [English](#english)
 
 ---
 
