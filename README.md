@@ -1,4 +1,4 @@
-# reversed-front-scripts
+# ReversedFront-scripts
 
 > 🇹🇼 [正體中文](#正體中文) ・ 🇺🇸/🇬🇧 [English](#english)
 
